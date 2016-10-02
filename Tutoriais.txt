@@ -1,2 +1,1 @@
-JavaFX - http://code.makery.ch/library/javafx-8-tutorial/pt/JavaFX - http://code.makery.ch/library/javafx-8-tutorial/pt/
-Teste
+JavaFX - http://code.makery.ch/library/javafx-8-tutorial/pt/
