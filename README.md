@@ -1,4 +1,4 @@
-# Prj_Financas
+﻿# Prj_Financas
 O projeto é uma iniciativa de um grupo de programadores dos demais niveis, para elucidar os conceitos da linguagem Java.
 
 # Funcionalidades do projeto
@@ -22,3 +22,6 @@ Lucas Noleto <br>
 Thiago Lopes <br>
 Mauricio Taffarel <br>
 Beto Lima <br>
+João Dimitrov <br>
+Luiz Biasoti <br>
+Dario Cerqueira <br>
